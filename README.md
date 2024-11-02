@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="profile.jpg" />
+  <img height="150" src="profile.jpg" style="border-radius: 50%;" />
 </div>
 
 ###
