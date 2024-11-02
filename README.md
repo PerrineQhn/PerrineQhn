@@ -52,6 +52,19 @@
 
 ###
 
+
+<h3 align="center">🌐 Découvrir mon site</h3>
+
+###
+
+<div align="center">
+  <a href="https://perrineqhn.github.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Visiter+mon+site&color=0E76A8&style=for-the-badge" height="30" alt="site link" />
+  </a>
+</div>
+
+###
+
 <h3 align="left">🔥 Mes statistiques :</h3>
 
 ###
